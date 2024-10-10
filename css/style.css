@@ -1,0 +1,94 @@
+/* logo */
+.logo{
+    padding: 10px;
+    text-align: center;
+}
+
+.logo img{
+    width: 10%;
+    height: 100px;
+}
+
+/* banner */
+.banner img{
+    width: 100%;
+}
+
+.best-seller-tittle{
+    text-align: center;
+    margin: 30px;
+}
+
+/* Best-Seller */
+.best-items img{
+    width: 100%;
+}
+
+.best-items{
+    padding: 20px;
+    background-color: #d6cbcb;
+    position: relative;
+}
+
+.best-details{
+    position: absolute;
+    background-color: #cac2c2;
+    left: 0;
+    bottom: 0;
+    opacity: 0.7;
+}
+
+/* sale */
+.sale-title{
+    text-align: center;
+    margin: 30px;
+}
+
+.sale-img img{
+    width: 100%;
+    height: 335px;
+}
+
+.sale-content{
+    background-color: #d8d1d1;
+}
+
+.sale-name{
+    border-bottom: 2px solid black;
+}
+
+.sale-location{
+    font-weight: bold;
+}
+
+.sale-price{
+    color: red;
+}
+
+/* showroom */
+.showroom-title{
+    text-align: center;
+    margin: 20px;
+}
+
+.showroom-img img{
+    width: 100%;
+    height: 345px;
+}
+
+.showroom-iframe iframe{
+    width: 100%;
+    height: 345px;
+}
+
+/* footer */
+.footer{
+    margin-top: 20px;
+}
+
+.footer-detail{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
